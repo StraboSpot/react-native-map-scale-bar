@@ -19,7 +19,7 @@ export const FEET_PER_METER = 3.28084;
 /**
  * Ratio of the max scale draw width to the screen width.
  */
-export const SCALE_SCREEN_RATIO = 0.45;
+export const SCALE_SCREEN_RATIO = 0.20;
 
 /**
  * Tile size in meters at 0 zoom level.
